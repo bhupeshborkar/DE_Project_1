@@ -1,2 +1,2 @@
 # DE_Project_1
-This is a new ongoing projrct repo.
+This is a new ongoing project repo.
